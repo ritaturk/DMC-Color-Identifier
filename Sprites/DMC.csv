@@ -1,0 +1,455 @@
+R,G,B,DMC,Floss
+255,226,226,Salmon Very Light,3713
+255,201,201,Salmon Light,761
+245,173,173,Salmon,760
+241,135,135,Salmon Medium,3712
+227,109,109,Salmon Dark,3328
+191,45,45,Salmon Very Dark,347
+254,215,204,Peach,353
+253,156,151,Coral Light,352
+233,106,103,Coral,351
+224,72,72,Coral Medium,350
+210,16,53,Coral Dark,349
+187,5,31,Coral Red Very Dark,817
+255,203,213,Melon Light,3708
+255,173,188,Melon Medium,3706
+255,121,146,Melon Dark,3705
+231,73,103,Melon Very Dark,3801
+227,29,66,Bright Red,666
+199,43,59,Red,321
+183,31,51,Red Medium,304
+167,19,43,Red Dark,498
+151,11,35,Garnet,816
+135,7,31,Garnet Medium,815
+123,0,27,Garnet Dark,814
+255,178,187,Carnation Very Light,894
+252,144,162,Carnation Light,893
+255,121,140,Carnation Medium,892
+255,87,115,Carnation Dark,891
+255,223,217,Baby Pink,818
+253,181,181,Geranium Pale,957
+255,145,145,Geranium,956
+214,43,91,Rose Dark,309
+255,215,215,Dusty Rose Ult Vy Lt,963
+255,189,189,Dusty Rose Med Vy Lt,3716
+230,138,138,Dusty Rose Medium,962
+207,115,115,Dusty Rose Dark,961
+234,134,153,Raspberry Light,3833
+219,85,110,Raspberry Medium,3832
+179,47,72,Raspberry Dark,3831
+145,53,70,Raspberry Very Dark,777
+255,238,235,Baby Pink Light,819
+251,173,180,Rose Light,3326
+252,176,185,Pink Medium,776
+242,118,136,Rose Medium,899
+238,84,110,Rose,335
+179,59,75,Rose Very Dark,326
+240,206,212,Dusty Rose Vry Lt,151
+228,166,172,Dusty Rose Light,3354
+232,135,155,Dusty Rose,3733
+218,103,131,Dusty Rose Very Dark,3731
+188,67,101,Dusty Rose Ultra Dark,3350
+171,2,73,Dusty Rose Ult Vy Dk,150
+251,191,194,Mauve Light,3689
+231,169,172,Mauve Medium,3688
+201,107,112,Mauve,3687
+171,51,87,Mauve Dark,3803
+136,21,49,Mauve Very Dark,3685
+255,192,205,Cranberry Very Light,605
+255,176,190,Cranberry Light,604
+255,164,190,Cranberry,603
+226,72,116,Cranberry Medium,602
+209,40,106,Cranberry Dark,601
+205,47,99,Cranberry Very Dark,600
+255,140,174,Cyclamen Pink Light,3806
+243,71,139,Cyclamen Pink,3805
+224,40,118,Cyclamen Pink Dark,3804
+244,174,213,Plum Ultra Light,3609
+234,156,196,Plum Very Light,3608
+197,73,137,Plum Light,3607
+156,36,98,Plum,718
+155,19,89,Plum Medium,917
+130,0,67,Plum Dark,915
+255,223,213,Shell Pink Ult Vy Lt,225
+235,183,175,Shell Pink Very Light,224
+226,160,153,Shell Pink Med Light,152
+204,132,124,Shell Pink Light,223
+188,108,100,Shell Pink Med,3722
+161,75,81,Shell Pink Dark,3721
+136,62,67,Shell Pink Vy Dk,221
+223,179,187,Antique Mauve Vy Lt,778
+219,169,178,Antique Mauve Light,3727
+183,115,127,Antique Mauve Med,316
+155,91,102,Antique Mauve Dark,3726
+129,73,82,Antique Mauve Md Dk,315
+113,65,73,Antique Mauve Vy Dk,3802
+130,38,55,Garnet Very Dark,902
+215,203,211,Antique Violet Vy Lt,3743
+183,157,167,Antique Violet Light,3042
+149,111,124,Antique Violet Medium,3041
+120,87,98,Antique Violet Dark,3740
+186,145,170,Grape Light,3836
+148,96,131,Grape Medium,3835
+114,55,93,Grape Dark,3834
+87,36,51,Grape Very Dark,154
+227,203,227,Lavender Light,211
+195,159,195,Lavender Medium,210
+163,123,167,Lavender Dark,209
+131,91,139,Lavender Very Dark,208
+108,58,110,Lavender Ultra Dark,3837
+99,54,102,Violet Dark,327
+230,204,217,Violet Very Light,153
+219,179,203,Violet Light,554
+163,99,139,Violet,553
+128,58,107,Violet  Medium,552
+92,24,78,Violet Very Dark,550
+211,215,237,Blue Violet Vy Lt,3747
+183,191,221,Blue Violet Light,341
+163,174,209,Blue Violet Med Lt,156
+173,167,199,Blue Violet Medium,340
+152,145,182,Blue Violet Med Dark,155
+119,107,152,Blue Violet Dark,3746
+92,84,120,Blue Violet Very Dark,333
+187,195,217,Cornflower Blue Vy Lt,157
+143,156,193,Cornflower Blue Light,794
+112,125,162,Cornflower Blue Med,793
+96,103,140,Cornflower Blue,3807
+85,91,123,Cornflower Blue Dark,792
+76,82,110,Cornflower Blu M V D,158
+70,69,99,Cornflower Blue V D,791
+176,192,218,Lavender Blue Light,3840
+123,142,171,Lavender Blue Med,3839
+92,114,148,Lavender Blue Dark,3838
+192,204,222,Delft Blue Pale,800
+148,168,198,Delft Blue,809
+116,142,182,Delft Blue Medium,799
+70,106,142,Delft Blue Dark,798
+19,71,125,Royal Blue,797
+17,65,109,Royal Blue Dark,796
+14,54,92,Royal Blue Very Dark,820
+219,236,245,Blue Ultra Very Light,162
+189,221,237,Blue Very Light,827
+161,194,215,Blue Light,813
+107,158,191,Blue Medium,826
+71,129,165,Blue Dark,825
+57,105,135,Blue Very Dark,824
+48,194,236,Electric Blue Medium,996
+20,170,208,Electric Blue,3843
+38,150,182,Electric Blue Dark,995
+6,227,230,Turquoise Bright Light,3846
+4,196,202,Turquoise Bright Med,3845
+18,174,186,Turquoise Bright Dark,3844
+199,202,215,Blue Gray Light,159
+153,159,183,Blue Gray Medium,160
+120,128,164,Blue Gray,161
+238,252,252,Baby Blue Ult Vy Lt,3756
+217,235,241,Baby Blue Very Light,775
+205,223,237,Baby Blue Pale,3841
+184,210,230,Baby Blue Light,3325
+147,180,206,Baby Blue,3755
+115,159,193,Baby Blue Medium,334
+90,143,184,Baby Blue Dark,322
+53,102,139,Baby Blue Very Dark,312
+44,89,124,Baby Blue Ult Vy Dk,803
+37,59,115,Navy Blue,336
+33,48,99,Navy Blue Dark,823
+27,40,83,Navy Blue Very Dark,939
+219,226,233,Antique Blue Ult Vy Lt,3753
+199,209,219,Antique Blue Very Lt,3752
+162,181,198,Antique Blue Light,932
+106,133,158,Antique Blue Medium,931
+69,92,113,Antique Blue Dark,930
+56,76,94,Antique Blue Very Dk,3750
+197,232,237,Sky Blue Vy Lt,828
+172,216,226,Sky Blue Light,3761
+126,177,200,Sky Blue,519
+79,147,167,Wedgewood Light,518
+62,133,162,Wedgewood Med,3760
+59,118,143,Wedgewood Dark,517
+50,102,124,Wedgewood Vry Dk,3842
+28,80,102,Wedgewood Ult VyDk,311
+229,252,253,Peacock Blue Vy Lt,747
+153,207,217,Peacock Blue Light,3766
+100,171,186,Peacock Blue,807
+61,149,165,Peacock Blue Dark,806
+52,127,140,Peacock Blue Vy Dk,3765
+188,227,230,Turquoise Very Light,3811
+144,195,204,Turquoise Light,598
+91,163,179,Turquoise,597
+72,142,154,Turquoise Dark,3810
+63,124,133,Turquoise Vy Dark,3809
+54,105,112,Turquoise Ult Vy Dk,3808
+221,227,227,Gray Green Vy Lt,928
+189,203,203,Gray Green Light,927
+152,174,174,Gray Green Med,926
+101,127,127,Gray Green Dark,3768
+86,106,106,Gray Green Vy Dark,924
+82,179,164,Teal Green Light,3849
+85,147,146,Teal Green Med,3848
+52,125,117,Teal Green Dark,3847
+169,226,216,Sea Green Light,964
+89,199,180,Sea Green Med,959
+62,182,161,Sea Green Dark,958
+47,140,132,Sea Green Vy Dk,3812
+73,179,161,Green Bright Lt,3851
+61,147,132,Green Bright Md,943
+55,132,119,Green Bright Dk,3850
+144,192,180,Aquamarine Vy Lt,993
+111,174,159,Aquamarine Lt,992
+80,139,125,Aquamarine,3814
+71,123,110,Aquamarine Dk,991
+185,215,192,Jade Ultra Vy Lt,966
+167,205,175,Jade Very Light,564
+143,192,152,Jade Light,563
+83,151,106,Jade Medium,562
+51,131,98,Jade Green,505
+153,195,170,Celadon Green Lt,3817
+101,165,125,Celadon Green,3816
+77,131,97,Celadon Green Md,163
+71,119,89,Celadon Green Dk,3815
+44,106,69,Celadon Green VD,561
+196,222,204,Blue Green Vy Lt,504
+178,212,189,Blue Green Lt,3813
+123,172,148,Blue Green Med,503
+91,144,113,Blue Green,502
+57,111,82,Blue Green Dark,501
+4,77,51,Blue Green Vy Dk,500
+162,214,173,Nile Green Light,955
+136,186,145,Nile Green,954
+109,171,119,Nile Green Med,913
+27,157,107,Emerald Green Lt,912
+24,144,101,Emerald Green Med,911
+24,126,86,Emerald Green Dark,910
+21,111,73,Emerald Green Vy Dk,909
+17,90,59,Emerald Grn Ult V Dk,3818
+215,237,204,Pistachio Green Vy Lt,369
+166,194,152,Pistachio Green Lt,368
+105,136,90,Pistachio Green Med,320
+97,122,82,Pistachio Green Dk,367
+32,95,46,Pistachio Grn Vy Dk,319
+23,73,35,Pistachio Grn Ult V D,890
+200,216,184,Forest Green Lt,164
+141,166,117,Forest Green ,989
+115,139,91,Forest Green Med,988
+88,113,65,Forest Green Dk,987
+64,82,48,Forest Green Vy Dk,986
+228,236,212,Yellow Green Vy Lt,772
+204,217,177,Yellow Green Lt,3348
+113,147,92,Yellow Green Med,3347
+64,106,58,Hunter Green,3346
+27,89,21,Hunter Green Dk,3345
+27,83,0,Hunter Green Vy Dk,895
+158,207,52,Chartreuse Bright,704
+123,181,71,Chartreuse,703
+71,167,47,Kelly Green,702
+63,143,41,Green Light,701
+7,115,27,Green Bright,700
+5,101,23,Green,699
+199,230,102,Parrot Green Lt,907
+127,179,53,Parrot Green Md,906
+98,138,40,Parrot Green Dk,905
+85,120,34,Parrot Green V Dk,904
+216,228,152,Avocado Grn U Lt,472
+174,191,121,Avocado Grn V Lt,471
+148,171,79,Avocado Grn Lt,470
+114,132,60,Avocado Green,469
+98,113,51,Avocado Green Md,937
+76,88,38,Avocado Grn V Dk,936
+66,77,33,Avocado Green Dk,935
+49,57,25,Avocado Grn Black,934
+171,177,151,Fern Green Lt,523
+156,164,130,Green Gray,3053
+136,146,104,Green Gray Md,3052
+95,102,72,Green Gray Dk,3051
+196,205,172,Fern Green Vy Lt,524
+150,158,126,Fern Green,522
+102,109,79,Fern Green Dark,520
+131,151,95,Pine Green,3364
+114,130,86,Pine Green Md,3363
+94,107,71,Pine Green Dk,3362
+239,244,164,Moss Green Vy Lt,165
+224,232,104,Moss Green Lt,3819
+192,200,64,Moss Green Md Lt,166
+167,174,56,Moss Green,581
+136,141,51,Moss Green Dk,580
+199,192,119,Olive Green Lt,734
+188,179,76,Olive Green Md,733
+148,140,54,Olive Green,732
+147,139,55,Olive Green Dk,731
+130,123,48,Olive Green V Dk,730
+185,185,130,Khaki Green Lt,3013
+166,167,93,Khaki Green Md,3012
+137,138,88,Khaki Green Dk,3011
+204,183,132,Mustard Lt,372
+191,166,113,Mustard,371
+184,157,100,Mustard Medium,370
+219,190,127,Golden Olive Vy Lt,834
+200,171,108,Golden Olive Lt,833
+189,155,81,Golden Olive,832
+170,143,86,Golden Olive Md,831
+141,120,75,Golden Olive Dk,830
+126,107,66,Golden Olive Vy Dk,829
+220,196,170,Drab Brown V Lt,613
+188,154,120,Drab Brown Lt,612
+150,118,86,Drab Brown,611
+121,96,71,Drab Brown Dk,610
+231,214,193,Yellow Beige Lt,3047
+216,188,154,Yellow Beige Md,3046
+188,150,106,Yellow Beige Dk,3045
+167,124,73,Yellow Beige V Dk,167
+252,252,238,Off White,746
+245,236,203,Old Gold Vy Lt,677
+198,159,123,Hazelnut Brown Lt,422
+183,139,97,Hazelnut Brown,3828
+160,112,66,Hazelnut Brown Dk,420
+131,94,57,Hazelnut Brown V Dk,869
+228,180,104,Topaz,728
+206,145,36,Topaz Medium,783
+174,119,32,Topaz Dark,782
+162,109,32,Topaz Very Dark,781
+148,99,26,Topaz Ultra Vy Dk,780
+229,206,151,Old Gold Lt,676
+208,165,62,Old Gold Medium,729
+188,141,14,Old Gold Dark,680
+169,130,4,Old Gold Vy Dark,3829
+246,220,152,Straw Light,3822
+243,206,117,Straw,3821
+223,182,95,Straw Dark,3820
+205,157,55,Straw Very Dark,3852
+255,251,139,Lemon Light,445
+253,237,84,Lemon,307
+255,227,0,Canary Bright,973
+255,214,0,Lemon Dark,444
+253,249,205,Golden Yellow Vy Lt,3078
+255,241,175,Topaz Vy Lt,727
+253,215,85,Topaz Light,726
+255,200,64,Topaz Med Lt,725
+255,181,21,Canary Deep,972
+255,233,173,Yellow Pale Light,745
+255,231,147,Yellow Pale,744
+254,211,118,Yellow Med,743
+255,191,87,Tangerine Light,742
+255,163,43,Tangerine Med,741
+255,139,0,Tangerine,740
+247,139,19,Pumpkin Light,970
+246,127,0,Pumpkin,971
+255,123,77,Burnt Orange,947
+235,99,7,Burnt Orange Med,946
+209,88,7,Burnt Orange Dark,900
+255,222,213,Apricot Very Light,967
+254,205,194,Apricot Light,3824
+252,171,152,Apricot,3341
+255,131,111,Apricot Med,3340
+253,93,53,Burnt Orange Bright,608
+250,50,3,Orange?Red Bright,606
+255,226,207,Tawny Light,951
+255,211,181,Mahogany Ult Vy Lt,3856
+247,151,111,Orange Spice Light,722
+242,120,66,Orange Spice Med,721
+229,92,31,Orange Spice Dark,720
+253,189,150,Pumpkin Pale,3825
+226,115,35,Copper Light,922
+198,98,24,Copper,921
+172,84,20,Copper Med,920
+166,69,16,Red Copper,919
+130,52,10,Red Copper Dark,918
+255,238,227,Tawny Vy Light,3770
+251,213,187,Tawny,945
+247,167,119,Mahogany Vy Lt,402
+207,121,57,Mahogany Light,3776
+179,95,43,Mahogany Med,301
+143,67,15,Mahogany Dark,400
+111,47,0,Mahogany Vy Dk,300
+255,253,227,Yellow Ultra Pale,3823
+250,211,150,Autumn Gold Lt,3855
+242,175,104,Autumn Gold Med,3854
+242,151,70,Autumn Gold Dk,3853
+247,187,119,Golden Brown Pale,3827
+220,156,86,Golden Brown Light,977
+194,129,66,Golden Brown Med,976
+173,114,57,Golden Brown,3826
+145,79,18,Golden Brown Dk,975
+254,231,218,Peach Very Light,948
+247,203,191,Peach Light,754
+244,187,169,Terra Cotta Ult Vy Lt,3771
+238,170,155,Terra Cotta Vy Lt,758
+217,137,120,Terra Cotta Light,3778
+197,106,91,Terra Cotta Med,356
+185,85,68,Terra Cotta,3830
+152,68,54,Terra Cotta Dark,355
+134,48,34,Terra Cotta Vy Dk,3777
+248,202,200,Rosewood Ult Vy Lt,3779
+186,139,124,Rosewood Light,3859
+150,74,63,Rosewood Med,3858
+104,37,26,Rosewood Dark,3857
+243,225,215,Desert Sand Vy Lt,3774
+238,211,196,Desert Sand Light,950
+196,142,112,Desert Sand,3064
+187,129,97,Desert Sand Med,407
+182,117,82,Desert Sand Dark,3773
+160,108,80,Desert Sand Vy Dk,3772
+135,85,57,Desert Sand Ult Vy Dk,632
+215,206,203,Shell Gray Light,453
+192,179,174,Shell Gray Med,452
+145,123,115,Shell Gray Dark,451
+166,136,129,Cocoa Light,3861
+125,93,87,Cocoa,3860
+98,75,69,Cocoa Dark,779
+255,251,239,Cream,712
+248,228,200,Tan Ult Vy Lt,739
+236,204,158,Tan Very Light,738
+228,187,142,Tan Light,437
+203,144,81,Tan,436
+184,119,72,Brown Very Light,435
+152,94,51,Brown Light,434
+122,69,31,Brown Med,433
+101,57,25,Coffee Brown Dk,801
+73,42,19,Coffee Brown Vy Dk,898
+54,31,14,Coffee Brown Ult Dk,938
+30,17,8,Black Brown,3371
+242,227,206,Beige Brown Ult Vy Lt,543
+203,182,156,Mocha Beige Light,3864
+164,131,92,Mocha Beige Med,3863
+138,110,78,Mocha Beige Dark,3862
+75,60,42,Mocha Brown Vy Dk,3031
+255,255,255,Snow White,B5200
+252,251,248,White,White
+249,247,241,Winter White,3865
+240,234,218,Ecru,Ecru
+231,226,211,Beige Gray Light,822
+221,216,203,Beige Gray Med,644
+164,152,120,Beige Gray Dark,642
+133,123,97,Beige Gray Vy Dk,640
+98,93,80,Brown Gray Dark,3787
+79,75,65,Brown Gray Vy Dk,3021
+235,234,231,Brown Gray Vy Lt,3024
+177,170,151,Brown Gray Light,3023
+142,144,120,Brown Gray Med,3022
+99,100,88,Ash Gray Vy Lt,535
+227,216,204,Mocha Brown Vy Lt,3033
+210,188,166,Mocha Brown Lt,3782
+179,159,139,Mocha Brown Med,3032
+127,106,85,Beige Gray Ult Dk,3790
+107,87,67,Mocha Brown Dk,3781
+250,246,240,Mocha Brn Ult Vy Lt,3866
+209,186,161,Beige Brown Vy Lt,842
+182,155,126,Beige Brown Lt,841
+154,124,92,Beige Brown Med,840
+103,85,65,Beige Brown Dk,839
+89,73,55,Beige Brown Vy Dk,838
+230,232,232,Beaver Gray Vy Lt,3072
+188,180,172,Beaver Gray Lt,648
+176,166,156,Beaver Gray Med,647
+135,125,115,Beaver Gray Dk,646
+110,101,92,Beaver Gray Vy Dk,645
+72,72,72,Beaver Gray Ult Dk,844
+236,236,236,Pearl Gray Vy Lt,762
+211,211,214,Pearl Gray,415
+171,171,171,Steel Gray Lt,318
+140,140,140,Steel Gray Dk,414
+209,209,209,Pewter Very Light,168
+132,132,132,Pewter Light,169
+108,108,108,Pewter Gray,317
+86,86,86,Pewter Gray Dark,413
+66,66,66,Pewter Gray Vy Dk,3799
+0,0,0,Black,310
