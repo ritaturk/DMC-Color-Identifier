@@ -26,7 +26,7 @@ st.set_page_config(
 st.title("🎨 DMC Color Identifier")
 st.markdown("---")
 st.markdown("### ☕ Support This Project")
-st.markdown("If you find this tool useful, consider supporting me on [Patreon](https://www.patreon.com/https://www.patreon.com/StitchGirlCoder)")
+st.markdown("If you find this tool useful, consider supporting me on [Patreon](https://www.patreon.com/StitchGirlCoder)")
 st.markdown("---")
 st.markdown("Convert your sprite images to DMC cross-stitch patterns!")
 
