@@ -37,7 +37,7 @@ with st.sidebar:
     st.write("Upload a PNG sprite image and the app will identify the colors and create a DMC cross-stitch pattern.")
 
 # Create two containers for layout
-col1, col2 = st.containers(2)
+col1, col2 = st.columns(2)
 
 with col1:
     st.header("📤 Upload Your Sprite")
