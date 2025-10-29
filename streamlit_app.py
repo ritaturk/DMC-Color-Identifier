@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 st.title("🎨 DMC Color Identifier")
-st.markdown("Convert your sprite images to DMC cross-stitch patterns!")
+st.markdown("Convert your images of threads to their DMC colors and codes!")
 
 # Sidebar for settings
 with st.sidebar:
@@ -34,7 +34,7 @@ with st.sidebar:
     st.markdown("### ☕ Support This Project")
     st.markdown("[Buy me a coffee!](https://www.buymeacoffee.com/ritaturk)")
     st.header("Settings")
-    st.write("Upload a PNG sprite image and the app will identify the colors and create a DMC cross-stitch pattern.")
+    st.write("Upload a PNG sprite image and the app will identify the colors and create the most approximate DMC code match.")
 
 # Create two containers for layout
 col1, col2 = st.columns(2)
@@ -96,7 +96,7 @@ if uploaded_file is not None:
                 
                 # Create DataFrame from collected color data
                 sprite_colors = pd.DataFrame(temp_colors, 
-                                           containers=['INDEX', 'REAL', 'DMC', 'FLOSS'])
+                                           columns=['INDEX', 'REAL', 'DMC', 'FLOSS'])
                 
                 # Initialize matrices for Excel output
                 index_matrix = np.full((sprite.shape[0], sprite.shape[1]), "x", dtype=object)
