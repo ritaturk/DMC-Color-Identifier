@@ -36,8 +36,8 @@ with st.sidebar:
     st.header("Settings")
     st.write("Upload a PNG sprite image and the app will identify the colors and create a DMC cross-stitch pattern.")
 
-# Create two columns for layout
-col1, col2 = st.columns(2)
+# Create two containers for layout
+col1, col2 = st.containers(2)
 
 with col1:
     st.header("📤 Upload Your Sprite")
@@ -55,7 +55,7 @@ if uploaded_file is not None:
     
     # Display the uploaded image
     with col1:
-        st.image(pil_image, caption="Uploaded Sprite", use_column_width=True)
+        st.image(pil_image, caption="Uploaded Sprite", use_container_width=True)
     
     # Process the image
     with st.spinner("Processing sprite..."):
@@ -96,7 +96,7 @@ if uploaded_file is not None:
                 
                 # Create DataFrame from collected color data
                 sprite_colors = pd.DataFrame(temp_colors, 
-                                           columns=['INDEX', 'REAL', 'DMC', 'FLOSS'])
+                                           containers=['INDEX', 'REAL', 'DMC', 'FLOSS'])
                 
                 # Initialize matrices for Excel output
                 index_matrix = np.full((sprite.shape[0], sprite.shape[1]), "x", dtype=object)
