@@ -29,6 +29,11 @@ st.markdown("Convert your sprite images to DMC cross-stitch patterns!")
 # Sidebar for settings
 with st.sidebar:
     st.header("Settings")
+    st.write("Upload a PNG file to get started!")
+    st.markdown("---")
+    st.markdown("### ☕ Support This Project")
+    st.markdown("[Buy me a coffee!](https://www.buymeacoffee.com/ritaturk)")
+    st.header("Settings")
     st.write("Upload a PNG sprite image and the app will identify the colors and create a DMC cross-stitch pattern.")
 
 # Create two columns for layout
